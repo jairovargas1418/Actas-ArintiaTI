@@ -1,0 +1,4 @@
+pymongo
+tkinter
+PyPDF2
+gridfs
