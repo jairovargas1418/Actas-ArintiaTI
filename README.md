@@ -4,8 +4,8 @@
 
 # **Actas Arintia TI**  
 Gestión de archivos PDF en MongoDB con una interfaz gráfica en **Python & Tkinter**  
-
-![Actas Arintia TI](ruta_de_tu_logo.png)  
+Autor: Jairo Fernando Vargas Pimiento 
+Mayo 7 2025 
 
 ### 🏆 **Descripción**  
 Actas Arintia TI es una aplicación que permite la gestión eficiente de archivos **PDF** utilizando **MongoDB** y **GridFS**, con una interfaz gráfica intuitiva construida en **Tkinter**. Los usuarios pueden **cargar, visualizar, actualizar y eliminar** documentos fácilmente.  
