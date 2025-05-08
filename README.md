@@ -78,6 +78,6 @@ actas-arintia-ti/
 
 
 ## 📝 **Licencia**  
-Este proyecto está bajo la **Licencia MIT**, lo que significa que puedes usarlo libremente, modificarlo y mejorarlo.  
+Este proyecto está bajo la **Licencia MIT**, su uso es libre.
 
 
