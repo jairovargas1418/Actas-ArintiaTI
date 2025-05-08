@@ -29,10 +29,10 @@ pip install pymongo gridfs tkinter reportlab pymupdf pillow
 ```
 
 ### 📥 **Clonación del repositorio**  
-Para descargar el código fuente, usa:  
+Para descargar el código fuente, usar:  
 
 ```bash
-git clone https://github.com/TU_USUARIO/actas-arintia-ti.git
+git clone https://github.com/jairovargas1418/actas-arintia-ti.git
 cd actas-arintia-ti
 ```
 
